@@ -30,3 +30,4 @@
 ## &#x2692; Current Projects
 - 🚀 [MONEROCHAN-OS](https://github.com/uwaterl00/MONEROCHAN-OS)
 - 🚀 [crucible/helsing](https://github.com/firoorg/crucible)
+- 🚀 [crucible/helsing](https://github.com/uwaterl00/zk-bridge-v2)
