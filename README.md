@@ -1,16 +1,32 @@
-## Hi there 👋
+📍  https://uwaterloo.ca <br/>
+📍  https://anchorid.net/resolve/e1a88326-239e-437c-bec8-78708eaa3a89
 
-<!--
-**uwaterl00/uwaterl00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://img.shields.io/badge/-FCC624?style=flat-square&logoColor=black&logo=archlinux)
+![](https://img.shields.io/badge/-FCC624?style=flat-square&logoColor=black&logo=debian)
+![](https://img.shields.io/badge/-FCC624?style=flat-square&logoColor=black&logo=nixos)
+![](https://img.shields.io/badge/-FCC624?style=flat-square&logoColor=black&logo=raspberry-pi)
+![](https://img.shields.io/badge/-FCC624?style=flat-square&logoColor=black&logo=freebsd)
+![](https://img.shields.io/badge/-FCC624?style=flat-square&logoColor=black&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjU2IiBoZWlnaHQ9IjI1NiIgdmlld0JveD0iMCAwIDI1NiAyNTYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgZmlsbD0iIzAwMDAwMCI+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEyMCIgaGVpZ2h0PSIxMjAiLz4KICA8cmVjdCB4PSIxMzYiIHk9IjAiIHdpZHRoPSIxMjAiIGhlaWdodD0iMTIwIi8+CiAgPHJlY3QgeD0iMCIgeT0iMTM2IiB3aWR0aD0iMTIwIiBoZWlnaHQ9IjEyMCIvPgogIDxyZWN0IHg9IjEzNiIgeT0iMTM2IiB3aWR0aD0iMTIwIiBoZWlnaHQ9IjEyMCIvPgo8L3N2Zz4=)
+![](https://img.shields.io/badge/-FCC624?style=flat-square&logoColor=black&logo=macos)
+![](https://img.shields.io/badge/-FCC624?style=flat-square&logoColor=black&logo=ios)
+![](https://img.shields.io/badge/-FCC624?style=flat-square&logoColor=black&logo=android)
 
-Here are some ideas to get you started:
+![](https://img.shields.io/badge/-A8B9CC?style=flat-square&logoColor=black&logo=c)
+![](https://img.shields.io/badge/-A8B9CC?style=flat-square&logoColor=black&logo=go)
+![](https://img.shields.io/badge/-A8B9CC?style=flat-square&logoColor=black&logo=rust)
+![](https://img.shields.io/badge/-A8B9CC?style=flat-square&logoColor=black&logo=python)
+![](https://img.shields.io/badge/-A8B9CC?style=flat-square&logoColor=black&logo=dotnet)
+![](https://img.shields.io/badge/-A8B9CC?style=flat-square&logoColor=black&logo=openjdk)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://img.shields.io/badge/-E10098?style=flat-square&logoColor=white&logo=x)
+![](https://img.shields.io/badge/-E10098?style=flat-square&logoColor=white&logo=wayland)
+![](https://img.shields.io/badge/-E10098?style=flat-square&logoColor=white&logo=wine)
+
+![](https://img.shields.io/badge/-000000?style=flat-square&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+PHBhdGggZD0iTTIyLjI4MTkgOS44MjExYTUuOTg0NyA1Ljk4NDcgMCAwIDAtLjUxNTctNC45MTA4IDYuMDQ2MiA2LjA0NjIgMCAwIDAtNi41MDk4LTIuOUE2LjA2NTEgNi4wNjUxIDAgMCAwIDQuOTgwNyA0LjE4MThhNS45ODQ3IDUuOTg0NyAwIDAgMC0zLjk5NzcgMi45IDYuMDQ2MiA2LjA0NjIgMCAwIDAgLjc0MjcgNy4wOTY2IDUuOTggNS45OCAwIDAgMCAuNTExIDQuOTEwNyA2LjA1MSA2LjA1MSAwIDAgMCA2LjUxNDYgMi45MDAxQTUuOTg0NyA1Ljk4NDcgMCAwIDAgMTMuMjU5OSAyNGE2LjA1NTcgNi4wNTU3IDAgMCAwIDUuNzcxOC00LjIwNTggNS45ODk0IDUuOTg5NCAwIDAgMCAzLjk5NzctMi45MDAxIDYuMDU1NyA2LjA1NTcgMCAwIDAtLjc0NzUtNy4wNzI5em0tOS4wMjIgMTIuNjA4MWE0LjQ3NTUgNC40NzU1IDAgMCAxLTIuODc2NC0xLjA0MDhsLjE0MTktLjA4MDQgNC43NzgzLTIuNzU4MmEuNzk0OC43OTQ4IDAgMCAwIC4zOTI3LS42ODEzdi02LjczNjlsMi4wMiAxLjE2ODZhLjA3MS4wNzEgMCAwIDEgLjAzOC4wNTJ2NS41ODI2YTQuNTA0IDQuNTA0IDAgMCAxLTQuNDk0NSA0LjQ5NDR6bS05LjY2MDctNC4xMjU0YTQuNDcwOCA0LjQ3MDggMCAwIDEtLjUzNDYtMy4wMTM3bC4xNDIuMDg1MiA0Ljc4MyAyLjc1ODJhLjc3MTIuNzcxMiAwIDAgMCAuNzgwNiAwbDUuODQyOC0zLjM2ODV2Mi4zMzI0YS4wODA0LjA4MDQgMCAwIDEtLjAzMzIuMDYxNUw5Ljc0IDE5Ljk1MDJhNC40OTkyIDQuNDk5MiAwIDAgMS02LjE0MDgtMS42NDY0ek0yLjM0MDggNy44OTU2YTQuNDg1IDQuNDg1IDAgMCAxIDIuMzY1NS0xLjk3MjhWMTEuNmEuNzY2NC43NjY0IDAgMCAwIC4zODc5LjY3NjVsNS44MTQ0IDMuMzU0My0yLjAyMDEgMS4xNjg1YS4wNzU3LjA3NTcgMCAwIDEtLjA3MSAwbC00LjgzMDMtMi43ODY1QTQuNTA0IDQuNTA0IDAgMCAxIDIuMzQwOCA3Ljg3MnptMTYuNTk2MyAzLjg1NThMMTMuMTAzOCA4LjM2NCAxNS4xMTkyIDcuMmEuMDc1Ny4wNzU3IDAgMCAxIC4wNzEgMGw0LjgzMDMgMi43OTEzYTQuNDk0NCA0LjQ5NDQgMCAwIDEtLjY3NjUgOC4xMDQydi01LjY3NzJhLjc5Ljc5IDAgMCAwLS40MDctLjY2N3ptMi4wMTA3LTMuMDIzMWwtLjE0Mi0uMDg1Mi00Ljc3MzUtMi43ODE4YS43NzU5Ljc3NTkgMCAwIDAtLjc4NTQgMEw5LjQwOSA5LjIyOTdWNi44OTc0YS4wNjYyLjA2NjIgMCAwIDEgLjAyODQtLjA2MTVsNC44MzAzLTIuNzg2NmE0LjQ5OTIgNC40OTkyIDAgMCAxIDYuNjgwMiA0LjY2ek04LjMwNjUgMTIuODYzbC0yLjAyLTEuMTYzOGEuMDgwNC4wODA0IDAgMCAxLS4wMzgtLjA1NjdWNi4wNzQyYTQuNDk5MiA0LjQ5OTIgMCAwIDEgNy4zNzU3LTMuNDUzN2wtLjE0Mi4wODA1TDguNzA0IDUuNDU5YS43OTQ4Ljc5NDggMCAwIDAtLjM5MjcuNjgxM3ptMS4wOTc2LTIuMzY1NGwyLjYwMi0xLjQ5OTggMi42MDY5IDEuNDk5OHYyLjk5OTRsLTIuNTk3NCAxLjQ5OTctMi42MDY3LTEuNDk5N1oiLz48L3N2Zz4K)
+![](https://img.shields.io/badge/-000000?style=flat-square&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMS41IDEuNSkgc2NhbGUoMS4zMTI1KSI+PHBhdGggZD0ibTMuMTI3IDEwLjYwNCAzLjEzNS0xLjc2LjA1My0uMTUzLS4wNTMtLjA4NUg2LjExbC0uNTI1LS4wMzItMS43OTEtLjA0OC0xLjU1NC0uMDY1LTEuNTA1LS4wOC0uMzgtLjA4MUwwIDcuODMybC4wMzYtLjIzNC4zMi0uMjE0LjQ1NS4wNCAxLjAwOS4wNjkgMS41MTMuMTA1IDEuMDk3LjA2NCAxLjYyNi4xN2guMjU5bC4wMzYtLjEwNS0uMDg5LS4wNjUtLjA2OC0uMDY0LTEuNTY2LTEuMDYyLTEuNjk1LTEuMTIxLS44ODctLjY0Ni0uNDgtLjMyNy0uMjQzLS4zMDYtLjEwNC0uNjcuNDM1LS40OC41ODUuMDQuMTUuMDQuNTkzLjQ1NiAxLjI2Ny45ODEgMS42NTQgMS4yMTguMjQyLjIwMi4wOTctLjA2OC4wMTItLjA0OS0uMTA5LS4xODEtLjktMS42MjYtLjk2LTEuNjU1LS40MjgtLjY4Ni0uMTEzLS40MTFhMiAyIDAgMCAxLS4wNjgtLjQ4NGwuNDk2LS42NzRMNC40NDYgMGwuNjYyLjA4OS4yNzkuMjQyLjQxMS45NC42NjYgMS40OCAxLjAzMyAyLjAxNC4zMDIuNTk3LjE2Mi41NTMuMDYuMTdoLjEwNXYtLjA5N2wuMDg1LTEuMTM0LjE1Ny0xLjM5Mi4xNTQtMS43OTIuMDUyLS41MDQuMjUtLjYwNS40OTctLjMyNy4zODcuMTg2LjMxOS40NTYtLjA0NS4yOTQtLjE5IDEuMjMtLjM3IDEuOTMtLjI0MyAxLjI5aC4xNDJsLjE2MS0uMTYuNjU0LS44NjggMS4wOTctMS4zNzIuNDg0LS41NDUuNTY1LS42MDEuMzYzLS4yODdoLjY4NmwuNTA1Ljc1MS0uMjI2Ljc3NS0uNzA3Ljg5NS0uNTg1Ljc1OS0uODM5IDEuMTMtLjUyNC45MDQuMDQ4LjA3Mi4xMjUtLjAxMiAxLjg5Ny0uNDAzIDEuMDI0LS4xODYgMS4yMjMtLjIxLjU1My4yNTguMDYuMjYzLS4yMTguNTM2LTEuMzA3LjMyMy0xLjUzMy4zMDctMi4yODQuNTQtLjAyOC4wMi4wMzIuMDQgMS4wMjkuMDk4LjQ0LjAyNGgxLjA3N2wyLjAwNS4xNS41MjUuMzQ2LjMxNS40MjQtLjA1My4zMjMtLjgwNy40MTEtMy42MzEtLjg2My0uODcyLS4yMThoLS4xMnYuMDczbC43MjYuNzEgMS4zMzEgMS4yMDIgMS42NjcgMS41NS4wODQuMzgzLS4yMTQuMzAyLS4yMjYtLjAzMi0xLjQ2NC0xLjEwMS0uNTY1LS40OTctMS4yOC0xLjA3N2gtLjA4NHYuMTEzbC4yOTUuNDMyIDEuNTU3IDIuMzQuMDguNzE4LS4xMTIuMjM0LS40MDQuMTQxLS40NDQtLjA4LS45MTEtMS4yOC0uOTQtMS40NC0uNzU5LTEuMjkxLS4wOTMuMDUzLS40NDggNC44MjEtLjIxLjI0Ni0uNDg0LjE4Ni0uNDAzLS4zMDctLjIxNC0uNDk2LjIxNC0uOTguMjU4LTEuMjguMjEtMS4wMTYuMTktMS4yNjMuMTEyLS40Mi0uMDA4LS4wMjgtLjA5Mi4wMTItLjk1MyAxLjMwNy0xLjQ0OCAxLjk1Ny0xLjE0NiAxLjIyNy0uMjc0LjEwOS0uNDc3LS4yNDcuMDQ1LS40NC4yNjYtLjM5IDEuNTg2LTIuMDE4Ljk1Ni0xLjI1LjYxNy0uNzIzLS4wMDQtLjEwNWgtLjAzNmwtNC4yMTIgMi43MzYtLjc1LjA5Ni0uMzI0LS4zMDIuMDQtLjQ5Ni4xNTQtLjE2MiAxLjI2Ny0uODcxeiIvPjwvZz48L3N2Zz4K)
+![](https://img.shields.io/badge/-000000?style=flat-square&logoColor=white&logo=vim)
+![](https://img.shields.io/badge/-000000?style=flat-square&logoColor=white&logo=gnu-bash)
+
+## &#x2692; Current Projects
+- 🚀 [MONEROCHAN-OS](https://github.com/uwaterl00/MONEROCHAN-OS)
+- 🚀 [crucible/helsing](https://github.com/firoorg/crucible)
