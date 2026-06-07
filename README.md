@@ -33,4 +33,4 @@
 - 🚀 [crucible/helsing](https://github.com/firoorg/crucible)
 - 🚀 [zkzk-bridge](https://github.com/uwaterl00/zk-bridge-v2)
 
-<img align="right" width=180px src="img/bernkastel" alt="fogo_island_inn">
+<img align="right" width=180px src="img/bernkastel.gif" alt="fogo_island_inn">
