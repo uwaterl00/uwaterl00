@@ -1,5 +1,4 @@
 📍  https://uwaterloo.ca <br/>
-📍  http://xn--4db.tech/
 📍  https://anchorid.net/resolve/e1a88326-239e-437c-bec8-78708eaa3a89
 ### Hello:
 <img width=200px src="img/lambda.gif" alt="featherine">
